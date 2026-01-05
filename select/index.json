@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Disturbia",
+  "base_artist": "Rihanna",
+  "createdAt": "2026-01-05T18:00:57.223817Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Disturbia",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/01_Disturbia_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Disturbia",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/02_Disturbia_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Disturbia (Extended Version)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/03_Disturbia_(Extended_Version)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Disturbia - Jody den Broeder",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/04_Disturbia_-_Jody_den_Broeder_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Disturbia - Craig C's Master Radio Mix",
+      "artist": "Rihanna",
+      "has_synced": false,
+      "path": "select/05_Disturbia_-_Craig_C's_Master_Radio_Mix_Rihanna.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Disturbia - Jody den Broeder Remix",
+      "artist": "Rihanna",
+      "has_synced": false,
+      "path": "select/06_Disturbia_-_Jody_den_Broeder_Remix_Rihanna.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Disturbia - Jody den Broeder Radio Edit",
+      "artist": "Rihanna",
+      "has_synced": false,
+      "path": "select/07_Disturbia_-_Jody_den_Broeder_Radio_Edit_Rihanna.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Disturbia (album version)",
+      "artist": "Rhianna",
+      "has_synced": true,
+      "path": "select/08_Disturbia_(album_version)_Rhianna.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Disturbia (Album Version)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/09_Disturbia_(Album_Version)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Disturbia",
+      "artist": "The Cab",
+      "has_synced": true,
+      "path": "select/10_Disturbia_The_Cab.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Disturbia (feat. Lunis)",
+      "artist": "USAI feat. Lunis",
+      "has_synced": true,
+      "path": "select/11_Disturbia_(feat._Lunis)_USAI_feat._Lunis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Disturbia",
+      "artist": "USAI",
+      "has_synced": true,
+      "path": "select/12_Disturbia_USAI.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Disturbia",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/13_Disturbia_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Disturbia",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/14_Disturbia_Rihanna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Disturbia",
+      "artist": "Rihanna",
+      "has_synced": false,
+      "path": "select/pl_01_Disturbia_Rihanna.txt"
+    }
+  ]
+}
