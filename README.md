@@ -1,0 +1,103 @@
+# Rihanna – Disturbia
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:02.28] Bum bum be-dum, bum bum be-dum bum (what's wrong with me?)
+[00:06.04] Bum bum be-dum, bum bum be-dum bum (why do I feel like this?)
+[00:09.83] Bum bum be-dum, bum bum be-dum bum (I'm going crazy now)
+[00:14.02] Bum bum be-dum, bum bum be-dum bum
+[00:31.02] 
+[00:17.58] No more gas, in the red
+[00:19.67] Can't even get it started
+[00:21.44] Nothing heard, nothing said
+[00:23.36] Can't even speak about it
+[00:25.25] All my life on my head
+[00:27.24] Don't want to think about it
+[00:29.10] Feels like I'm going insane, yeah
+[00:45.60] 
+[00:32.96] It's a thief in the night to come and grab you (aha)
+[00:36.81] It can creep up inside you and consume you (aha)
+[00:40.57] A disease of the mind, it can control you (aha)
+[00:44.33] It's too close for comfort, oh
+[00:59.33] 
+[00:47.58] Put on your brake lights
+[00:49.31] You're in the city of wonder
+[00:51.44] Ain't gon' play nice
+[00:53.12] Watch out, you might just go under
+[00:55.31] Better think twice
+[00:57.06] Your train of thought will be altered
+[00:59.26] So if you must falter, be wise
+[01:14.26] 
+[01:02.45] Your mind is in disturbia
+[01:04.81] It's like the darkness is the light
+[01:07.17] Disturbia
+[01:08.62] Am I scaring you tonight? (your mind is in)
+[01:11.30] Disturbia
+[01:12.54] Ain't used to what you like
+[01:14.82] Disturbia, disturbia
+[01:24.82] 
+[01:18.77] Bum bum be-dum, bum bum be-dum bum
+[01:22.69] Bum bum be-dum, bum bum be-dum bum
+[01:26.40] Bum bum be-dum, bum bum be-dum bum
+[01:30.21] Bum bum be-dum, bum bum be-dum bum
+[01:47.21] 
+[01:34.22] Faded pictures on the wall
+[01:36.52] It's like they talkin' to me
+[01:38.20] Disconnected, no one calls
+[01:40.49] The phone don't even ring
+[01:42.16] I gotta get out or figure this shit out
+[01:45.66] It's too close for comfort, oh
+[02:00.66] 
+[01:49.74] It's a thief in the night to come and grab you (aha)
+[01:53.61] It can creep up inside you and consume you (aha)
+[01:57.47] A disease of the mind, it can control you (aha)
+[02:01.21] I feel like a monster, oh
+[02:13.71] 
+[02:04.52] Put on your brake lights
+[02:06.14] You're in the city of wonder (city lights)
+[02:08.54] Ain't gon' play nice
+[02:10.01] Watch out, you might just go under
+[02:12.15] Better think twice (think twice)
+[02:13.98] Your train of thought will be altered
+[02:16.03] So if you must falter, be wise (be wise)
+[02:36.03] 
+[02:19.16] Your mind is in disturbia
+[02:21.65] It's like the darkness is the light
+[02:24.00] Disturbia
+[02:25.42] Am I scaring you tonight? (your mind is in)
+[02:27.96] Disturbia
+[02:29.48] Ain't used to what you like (what you like)
+[02:31.65] Disturbia, disturbia
+[02:41.65] 
+[02:35.67] Bum bum be-dum, bum bum be-dum bum
+[02:39.30] Bum bum be-dum, bum bum be-dum bum
+[02:43.17] Bum bum be-dum, bum bum be-dum bum (Disturbia)
+[02:47.33] Bum bum be-dum, bum bum be-dum bum (oh-oh)
+[03:08.33] 
+[02:51.10] Release me from this curse I'm in
+[02:55.17] Trying to maintain, but I'm struggling
+[02:59.55] If you can't go-o-o-o-o-o
+[03:03.12] I think I'm gonna ah-ah-ah-ah-ah
+[03:19.12] 
+[03:06.00] Put on your brake lights
+[03:07.55] You're in the city of wonder
+[03:09.51] Ain't gon' play nice
+[03:11.37] Watch out, you might just go under
+[03:13.41] Better think twice (better think twice)
+[03:15.36] Your train of thought will be altered
+[03:17.48] So if you must falter, be wise (so if you must falter, be wise)
+[03:48.98] 
+[03:20.79] Your mind is in disturbia
+[03:23.17] It's like the darkness is the light
+[03:25.30] Disturbia
+[03:27.03] Am I scaring you tonight? (your mind is in)
+[03:29.31] Disturbia
+[03:30.91] Ain't used to what you like
+[03:33.18] Disturbia, disturbia
+[03:43.18] 
+[03:37.00] Bum bum be-dum, bum bum be-dum bum
+[03:40.75] Bum bum be-dum, bum bum be-dum bum
+[03:44.75] Bum bum be-dum, bum bum be-dum bum
+[03:48.55] Bum bum be-dum, bum bum be-dum bum
+```
